@@ -13,6 +13,11 @@
   "author": "Bloc Inc",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.5.3",
+    "angular-animate": "^1.5.3",
+    "angular-aria": "^1.5.3",
+    "angular-material": "^1.0.7",
+    "angular-messages": "^1.5.3",
     "hapi": "~7.5.0",
     "path": "^0.4.9"
   },
@@ -25,5 +30,8 @@
     "grunt-contrib-copy": "~0.5.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-hapi": "^0.8.1"
+  },
+  "bugs": {
+    "url": "https://github.com/bloc/bloc-frontend-project-starter/issues"
   }
 }
